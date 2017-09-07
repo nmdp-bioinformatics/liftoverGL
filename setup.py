@@ -11,7 +11,7 @@ with open('COPYING.LESSER') as f:
     license = f.read()
 
 setup(
-    name='pyliftover',
+    name='liftovergl',
     version='0.1.0',
     description='convers a GL String from one version of the IMGT/HLA nomenclature to another',
     long_description=readme,

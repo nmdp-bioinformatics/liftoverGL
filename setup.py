@@ -17,7 +17,7 @@ setup(
     long_description=readme,
     author='Bob Milius',
     author_email='bmilius@nmdp.org',
-    url='https://github.com/nmdp-bioinformatics/pyliftover',
+    url='https://github.com/nmdp-bioinformatics/liftoverGL',
     license=license,
     packages=find_packages(exclude=('tests', 'docs', 'bin'))
 )
